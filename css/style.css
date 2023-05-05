@@ -335,6 +335,8 @@ p {
   width: 448px;
   height: 40px;
 
+  padding-left: 42px;
+
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
   outline: none;
@@ -386,6 +388,8 @@ p {
 
 .comment {
   margin-bottom: 20px;
+  padding-top: 12px;
+  padding-left: 16px;
 
   width: 448px;
   height: 120px;
@@ -399,9 +403,6 @@ p {
 }
 
 .comment::placeholder {
-  padding-top: 12px;
-  padding-left: 16px;
-
   font-size: 12px;
   line-height: 1.16;
   letter-spacing: 0.01em;
