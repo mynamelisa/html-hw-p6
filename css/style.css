@@ -413,6 +413,7 @@ p {
 .checkbox-text {
   display: flex;
   align-items: center;
+  justify-content: center;
 
   margin-bottom: 30px;
   font-weight: 400;
